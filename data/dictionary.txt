@@ -1,19 +1,9 @@
-Algorithm
-Alignment
-Analytics
 B2B
 Back-end
 Ballpark figure
 Bandwidth
-Belt and Suspenders 
 Benchmarking
 Best Practices
-Beta
-Big data
-Bigger data
-Biggest data
-BitCoin
-Bleeding edge
 Bonus
 Brand
 Brick-and-mortar
@@ -21,44 +11,27 @@ Building Capabilities
 Business Process Outsourcing
 Business-to-Business
 Business-to-Consumer
+Conditional Framework
 Calibrate Expectations
 Clear Goal
 Click-through
-Client-centric
 Cloud
-Cloud Computing
 Collaboration
-Content Management System
 Content Marketing
-Core competency
 Countless
 Cross-platform
-Crystallization
 Customer-centric
-Data mining
-Data science
-Datafication
-Deep dive
-Design pattern
-Digital Divide
-Digital Native
-Digital Remastering
-Digital Rights Management
-Digital Signage
-Disruptive Innovation
-Disruptive Technologies
+Delivery
+Due Date
+Digital Native`
+Disrupt
 Diversity
 Document management
-Dot-bomb
-Downsizing
-E-Learning
 Education
 Empowerment
 Enable
-Engine
+Encoding
 Enterprise
-Enterprise Content Management
-Enterprise Service Bus
 Entitlement
 Event horizon
 Exit strategy
@@ -70,14 +43,12 @@ Free value
 Fulfilment issues
 Functional training
 Fuzzy logic
-Generation X
 Globalization
 Granular
 Grow
 Guard rails
 Headlights
 Herding cats
-Higher-order thinking
 Holistic Approach
 HTML5
 Hybrid Cloud
@@ -88,8 +59,8 @@ Information highway
 Innovation
 Integrate
 Integrated Marketing Solution
-Internal Open Source
 Knowledge Process Outsourcing
+Learnings
 Leverage
 Logistics
 Long Tail
@@ -104,6 +75,7 @@ Mission Critical
 Mobile
 Modularity
 Moving forward
+Net
 Nanotechnology
 Netiquette
 New economy
@@ -111,9 +83,11 @@ Next generation
 Off-shoring
 Organic growth
 Outside the Box
+Object Oriented
 Pain point
 Pandering
 Paradigm
+Ping
 Pod-casting
 Portal
 Private Cloud
@@ -129,10 +103,9 @@ Reverse fulfilment
 Right-shoring
 Robust
 ROI
+San
 Scalability
-Science and technology
 Sensorization
-Serum
 Share options
 Sisterhood
 Skeuomorphic
@@ -152,15 +125,14 @@ Student Engagement
 Survival Strategy
 Sustainability
 Synergy
-Systems Development Life-Cycle
 Tagging
+Tape
 Teamwork
 Tee off
 Touch base
 Touchpoint
-Transmedia
-TTM
 User generated content
+Vamp
 Value-added
 Viral
 Virtualization
